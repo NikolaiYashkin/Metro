@@ -1,0 +1,8 @@
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/Step1_Qt.dir
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/install.dir
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/install/local.dir
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/sile/QtProject/Metro/build-Step1_Qt-Desktop-Debug/CMakeFiles/Step1_Qt_autogen.dir
